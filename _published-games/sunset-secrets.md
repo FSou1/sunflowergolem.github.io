@@ -1,6 +1,7 @@
 ---
 title: "Sunset Secrets"
-excerpt: "A mobile match-3 game for women audience in detective, comedy and romance genre"
+excerpt: "A mobile match-3 game for a female audience in detective, comedy and romance genre"
+order: 4
 header:
   overlay_image: /assets/images/projects/sunset-secrets.jpg
   teaser: /assets/images/projects/sunset-secrets-image-1.jpg

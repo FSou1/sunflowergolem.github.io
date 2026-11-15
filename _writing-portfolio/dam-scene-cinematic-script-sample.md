@@ -3,8 +3,8 @@ title: "Dam scene"
 excerpt: "High-stakes action sequence, dynamic camera angles and intense visual descriptions balancing rapid pacing with vivid imagery"
 tagline: "This cinematic script presents an action sequence. It demonstrates a strong command of pacing and visual storytelling, culminating in a cliffhanger"
 header:
-  overlay_image: /assets/images/portfolio/the_dam.png
-  teaser: /assets/images/portfolio/the_dam.png
+  overlay_image: /assets/images/portfolio/the_dam.jpg
+  teaser: /assets/images/portfolio/the_dam.jpg
 order: 1
 ---
 

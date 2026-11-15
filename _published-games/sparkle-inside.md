@@ -1,9 +1,10 @@
 ---
 title: "Sparkle Inside"
-excerpt: "A 2-days hackathon visual novel project in philosophical drama genre"
+excerpt: "A 2-day hackathon visual novel project in philosophical drama genre"
+order: 7
 header:
-  overlay_image: /assets/images/projects/sparkle-inside.png
-  teaser: /assets/images/projects/sparkle-inside.png
+  overlay_image: /assets/images/projects/sparkle-inside.jpg
+  teaser: /assets/images/projects/sparkle-inside.jpg
 sidebar:
   - title: "Role"
     text: "Producer, game writer"

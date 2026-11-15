@@ -18,13 +18,14 @@ title_separator: "-"
 email: taisiia.narrative@gmail.com
 url: https://taistalecrafts.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Taisiia Smirnova - I’m a narrative designer and game screenwriter and I love it ❤️
-twitter_username: username
+  Taisiia Smirnova, narrative designer and game writer (tinyBuild, Playgendary, Dou Dou Games). Quests, branching dialogue, cinematics and lore. Open to full-time and freelance work.
+
 github_username: sunflowergolem
 minimal_mistakes_skin: default
 search: true
 teaser: /assets/images/500x300.png
 logo: /assets/images/logo.png
+og_image: /assets/images/photo.png
 masthead_title: " "
 
 # Build settings
@@ -59,6 +60,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 analytics:
   provider: "google-gtag"
@@ -68,8 +70,8 @@ analytics:
 author:
   name: "Taisiia Smirnova"
   avatar: "/assets/images/avatar.png"
-  bio: "I’m a narrative designer and game screenwriter and I love it ❤️"
-  location: "Houston, TX"
+  bio: "Narrative designer & game writer. Credits with tinyBuild, Playgendary and Dou Dou Games. Open to full-time & freelance work."
+  location: "Houston, TX · Remote"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -80,9 +82,9 @@ author:
     - label: "CV / Resume"
       icon: "fas fa-fw fa-file"
       url: "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf"
-    - label: "Hire Me"
-      icon: "fas fa-fw fa-link"
-      url: "/hire-me"
+    - label: "Contact"
+      icon: "fas fa-fw fa-paper-plane"
+      url: "/contact/"
 
 footer:
   links:
@@ -95,9 +97,9 @@ footer:
     - label: "CV / Resume"
       icon: "fas fa-fw fa-file"
       url: "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf"
-    - label: "Hire Me"
-      icon: "fas fa-fw fa-link"
-      url: "/hire-me"
+    - label: "Contact"
+      icon: "fas fa-fw fa-paper-plane"
+      url: "/contact/"
 
 collections:
   writing-portfolio:
@@ -132,7 +134,7 @@ defaults:
       path: ""
       type: writing-portfolio
     values:
-      layout: single
+      layout: single-cta
       author_profile: true
       share: true
       classes: wide
@@ -141,14 +143,8 @@ defaults:
       path: ""
       type: published-games
     values:
-      layout: single
+      layout: single-cta
       author_profile: false
       share: true
       classes: wide
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

@@ -3,8 +3,8 @@ title: "Hearts in Conflict"
 excerpt: "This dialogue highlights characters' distinct voices, all crafted in the style of BG3's choice-driven NPC interactions"
 tagline: "A classic short diamond-shaped dialogue, where a single conversation splits into multiple choices, each leading to distinct responses, before converging back to a unified conclusion. This structure allows for nuanced character interactions and player agency, while ensuring the narrative remains cohesive"
 header:
-  overlay_image: /assets/images/portfolio/Clint_and_Io_overlay.png
-  teaser: /assets/images/portfolio/Clint_and_Io.png
+  overlay_image: /assets/images/portfolio/Clint_and_Io_overlay.jpg
+  teaser: /assets/images/portfolio/Clint_and_Io.jpg
 order: 3
 ---
 

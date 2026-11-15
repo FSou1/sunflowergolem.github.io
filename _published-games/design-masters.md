@@ -1,9 +1,10 @@
 ---
 title: "Design Masters"
-excerpt: "A mobile match-3 game for women audience with more than 5,000,000 downloads and 28K reviews, 4.2⭐. Slice of life, comedy and romance genre"
+excerpt: "A mobile match-3 game for a female audience with more than 5,000,000 downloads and 28K reviews, 4.2⭐. Slice of life, comedy and romance genre"
+order: 5
 header:
-  overlay_image: /assets/images/projects/design-masters-1.png
-  teaser: /assets/images/projects/design-masters-1.png
+  overlay_image: /assets/images/projects/design-masters-1.jpg
+  teaser: /assets/images/projects/design-masters-1.jpg
 sidebar:
   - title: "Role"
     text: "Game writer"
@@ -36,6 +37,6 @@ Here is the gameplay video where you can see some of my characters and dialogues
 - Built concise scenes that align with the game's core mechanics, improving its pacing and aiding players in achieving their objectives, fostering a deeper immersion.
 - Crafted narrative for game locations, providing an enjoyable and educational experience for players as they design and decorate homes with the guidance of the story.
 - Wrote the dialogues and other in-game texts while analyzing and incorporating the writing styles of other writers on the team into my work.
-- Engaged advertisement scripts, supporting the game to gain more exposure and attract a larger audience.
+- Wrote advertising scripts, supporting the game to gain more exposure and attract a larger audience.
 
-![image-left](/assets/images/projects/design-masters-2.png)
+![image-left](/assets/images/projects/design-masters-2.jpg)

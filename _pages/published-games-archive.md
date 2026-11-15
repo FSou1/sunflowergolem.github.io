@@ -1,9 +1,10 @@
 ---
-title: "Published Games"
+title: "Games & Projects"
 layout: collection
 permalink: /published-games/
 collection: published-games
 entries_layout: grid
 classes: wide
-description: "Explore my projects showcasing game writing and the exciting game stories I've crafted"
+sort_by: order
+description: "Games and projects I have written for: narrative design, story, dialogue, lore and cinematics for PC, console and mobile titles"
 ---
