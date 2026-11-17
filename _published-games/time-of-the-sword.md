@@ -1,6 +1,10 @@
 ---
 title: "Time of the Sword"
 excerpt: "A PC and console slasher / action adventure game in thriller genre"
+description: "Time of the Sword is an action adventure game by Alpha Games based on Slavic folklore. Taisiia Smirnova was its sole writer and narrative designer from 2020 to 2024."
+official_url: "https://timeofthesword.com/about"
+date: 2023-03-05
+last_modified_at: 2026-11-17
 order: 3
 header:
   overlay_image: /assets/images/projects/time-of-the-sword-cover.jpg

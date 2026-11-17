@@ -14,8 +14,16 @@ Built with Jekyll and the [Minimal Mistakes](https://mmistakes.github.io/minimal
 | `_writing-portfolio/` | One file per writing sample. `order:` sets its position on the portfolio page |
 | `_includes/contact-cta.html` | The "Have a project or role in mind?" box shown at the end of pages |
 | `_data/navigation.yml` | Top menu |
+| `_includes/structured-data.html`, `_includes/schema.html` | Structured data (JSON-LD) for search engines and AI assistants |
+| `llms.txt` | Plain-text summary of the site for AI assistants, built from the pages above |
 | `_config.yml` | Site title, sidebar bio, social links, preview image |
 | `assets/` | Images and the CV PDF |
+
+## Adding a sample or game
+
+Search engines skip pages that are only a short teaser, so every writing sample page should carry a real excerpt of the text (in a `<div class="sample-excerpt" markdown="1">` block) as well as the link to the full PDF. In the front matter, set `description` (one or two sentences for search results), `date` (when the page was first published) and `last_modified_at` (when you last changed it). Game pages can also set `official_url` (the store or official page).
+
+Give every image a real description: `![What the image shows](/assets/images/...)`.
 
 ## Adding images
 

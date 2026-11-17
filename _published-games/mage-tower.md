@@ -2,6 +2,9 @@
 title: "Mage Tower"
 tagline: "Mage Tower is my personal video game project in the visual novel genre. This one-shot game experience lets players dive deep into a psychological thriller in a dark fantasy setting and go through neat and fully charged adventure making tough morally complicated and meaningful decisions that have a big impact on the ending."
 excerpt: "A personal visual novel project in dark fantasy setting and psychological thriller genre on Unreal and Articy: Draft 3"
+description: "Mage Tower is a dark fantasy psychological thriller visual novel by Taisiia Smirnova, built in articy:draft 3 and Unreal, with moral choices, resource management and five endings."
+date: 2023-03-09
+last_modified_at: 2026-11-17
 order: 6
 header:
   overlay_image: /assets/images/projects/Mage-tower-title-cover.jpg
@@ -21,7 +24,7 @@ In a world engulfed in shadows, this project embarks on a profound exploration o
 
 Amidst the encroaching darkness, this project guides a player through the depths of despair, illuminating the flicker of hope that resides within. It is a reminder that even in the bleakest moments, surrender is never an option.
 
-![image-left](/assets/images/projects/mage-tower.jpg)
+![Mage Tower key art: a tall, thin tower on a rock in a misty mountain gorge, with a waterfall pouring from its base](/assets/images/projects/mage-tower.jpg){: loading="lazy"}
 
 ## Story
 

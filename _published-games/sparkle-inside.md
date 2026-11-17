@@ -1,6 +1,10 @@
 ---
 title: "Sparkle Inside"
 excerpt: "A 2-day hackathon visual novel project in philosophical drama genre"
+description: "Sparkle Inside is a philosophical drama visual novel made in a two-day hackathon. Taisiia Smirnova produced and wrote it, managing a team of seven across five time zones."
+official_url: "https://taisiia.itch.io/sparkle-inside"
+date: 2023-03-09
+last_modified_at: 2026-11-17
 order: 7
 header:
   overlay_image: /assets/images/projects/sparkle-inside.jpg
@@ -26,6 +30,6 @@ An ethereal creature wakes up locked inside a ruined house that she cannot even 
 
 As she collects the memories, she realizes that she is a Sparkle - someone's creative force, long forgotten and locked away inside them. She must decide whether to accept her fate, the choice of the person who locked her away to alleviate their pain, or try to break free despite everything, finding her only way out - the way through.
 
-![image-left](/assets/images/projects/sparkle-inside-image-1.png)
-
 Here is the dialogue structure for the project.
+
+![Flowchart of the Sparkle Inside dialogue structure: scenes branching into choices and converging towards the endings](/assets/images/projects/sparkle-inside-image-1.png){: loading="lazy"}

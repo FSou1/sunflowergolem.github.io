@@ -3,6 +3,9 @@ cta_headline: "Need a story with heart for your game?"
 title: "Worldbuilding Myth Sample: Guiding Star"
 tagline: "A just-so story set in a fantasy world, exploring the deep lore behind the creation of constellations and showcasing soft worldbuilding"
 excerpt: "A myth-style origin tale showcasing lore and worldbuilding"
+description: "Worldbuilding myth sample by Taisiia Smirnova: Guiding Star, a just-so story about how a fantasy world's constellation came to be. The full text is on the page."
+date: 2023-03-05
+last_modified_at: 2026-11-17
 header:
   overlay_image: /assets/images/portfolio/just-so-story.jpg
   teaser: /assets/images/portfolio/just-so-story.jpg

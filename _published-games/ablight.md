@@ -1,6 +1,10 @@
 ---
 title: "Ablight"
 excerpt: "A classic real-time strategy game where diesel, cyberpunk and medieval aesthetics meet. I wrote all the dialogue for 2 campaigns"
+description: "Ablight is a classic real-time strategy game by Cynaps Arts. Taisiia Smirnova wrote all the dialogue for two campaigns and created a dozen characters with distinct voices."
+official_url: "https://store.steampowered.com/app/1670160/"
+date: 2026-11-15
+last_modified_at: 2026-11-17
 order: 2
 header:
   overlay_image: /assets/images/projects/ablight-cover.jpg

@@ -1,6 +1,10 @@
 ---
 title: "THE LIFT: Supernatural Handyman Simulator"
 excerpt: "An eerie first-person immersive sim inspired by Soviet sci-fi and the SCP Foundation. Published by tinyBuild"
+description: "THE LIFT: Supernatural Handyman Simulator is an immersive sim published by tinyBuild. Taisiia Smirnova, narrative designer, created its plot structure, character arcs, lore and quests."
+official_url: "https://store.steampowered.com/app/3283240/"
+date: 2026-11-15
+last_modified_at: 2026-11-17
 order: 1
 header:
   overlay_image: /assets/images/projects/the-lift-cover.jpg

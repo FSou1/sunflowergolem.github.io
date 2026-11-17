@@ -2,7 +2,9 @@
 permalink: /services/
 redirect_from:
   - /hire-me/
-title: "Hire Me"
+title: "Hire a Game Writer & Narrative Designer"
+service: true
+last_modified_at: 2026-11-17
 classes: wide
 description: "Work with Taisiia Smirnova, narrative designer and game writer (tinyBuild, Playgendary, Dou Dou Games): freelance writing for indie games on Fiverr, or full-time and long-term roles for studios."
 ---

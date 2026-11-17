@@ -12,7 +12,8 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer{% if link.rel %} {{ link.rel }}{% endif %}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
+          {%- comment -%} Own profiles on other sites get rel="me" (identity signal); internal links get no rel, so they are followed. {%- endcomment -%}
+          <li><a href="{{ link.url }}"{% if link.url contains '://' %} rel="me noopener{% if link.rel %} {{ link.rel }}{% endif %}"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}

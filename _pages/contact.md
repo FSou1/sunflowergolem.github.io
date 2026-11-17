@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contact Taisiia Smirnova"
+last_modified_at: 2026-11-17
 classes: wide
 description: "Contact Taisiia Smirnova, narrative designer and game writer: email or LinkedIn for full-time roles and contracts, Fiverr for smaller freelance pieces."
 ---

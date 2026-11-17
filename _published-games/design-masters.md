@@ -1,6 +1,10 @@
 ---
 title: "Design Masters"
 excerpt: "A mobile match-3 game for a female audience with more than 5,000,000 downloads and 28K reviews, 4.2⭐. Slice of life, comedy and romance genre"
+description: "Design Masters is a mobile match-3 and home design game by Playgendary with over 5 million downloads. Taisiia Smirnova wrote characters, scenes, dialogue and ad scripts for it."
+official_url: "https://play.google.com/store/apps/details?id=com.playgendary.homes"
+date: 2023-03-09
+last_modified_at: 2026-11-17
 order: 5
 header:
   overlay_image: /assets/images/projects/design-masters-1.jpg
@@ -39,4 +43,4 @@ Here is the gameplay video where you can see some of my characters and dialogues
 - Wrote the dialogues and other in-game texts while analyzing and incorporating the writing styles of other writers on the team into my work.
 - Wrote advertising scripts, supporting the game to gain more exposure and attract a larger audience.
 
-![image-left](/assets/images/projects/design-masters-2.jpg)
+![Design Masters promotional screenshot: a red-haired character holding a design book next to room designs, with the caption "Enjoy the story"](/assets/images/projects/design-masters-2.jpg){: loading="lazy"}
