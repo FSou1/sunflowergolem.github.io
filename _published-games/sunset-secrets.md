@@ -18,7 +18,7 @@ sidebar:
     text: "Women 35+"
 ---
 
-[Sunset Secrets](https://play.google.com/store/apps/details?id=com.PuzzlePoint.SunsetSecrets){:target="\_blank"} is a mobile story-based match-3 game in the detective genre in a modern setting for the preferred audience of women 35+ choosing emotionally enriching and light mood narratives.
+[Sunset Secrets](https://play.google.com/store/apps/details?id=com.PuzzlePoint.SunsetSecrets){:target="_blank"} is a mobile story-based match-3 game in the detective genre in a modern setting for the preferred audience of women 35+ choosing emotionally enriching and light mood narratives.
 
 ![image-left](/assets/images/projects/sunset-secrets-image-1.jpg)
 

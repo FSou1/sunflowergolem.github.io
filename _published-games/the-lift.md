@@ -25,7 +25,7 @@ sidebar:
     text: "PC (Steam)"
 ---
 
-[THE LIFT: Supernatural Handyman Simulator](https://store.steampowered.com/app/3283240/){:target="\_blank"} is an eerie first-person simulator published by **tinyBuild**. The player is a handyman renovating a massive research facility abandoned after a mysterious incident. It combines satisfying house-flipping gameplay with a mind-bending story and a highly interactive world inspired by Soviet sci-fi and the SCP Foundation.
+[THE LIFT: Supernatural Handyman Simulator](https://store.steampowered.com/app/3283240/){:target="_blank"} is an eerie first-person simulator published by **tinyBuild**. The player is a handyman renovating a massive research facility abandoned after a mysterious incident. It combines satisfying house-flipping gameplay with a mind-bending story and a highly interactive world inspired by Soviet sci-fi and the SCP Foundation.
 
 ## What I did
 

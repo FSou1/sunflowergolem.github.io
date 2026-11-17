@@ -1,6 +1,7 @@
 ---
 title: "Writing Portfolio"
-layout: collection
+layout: collection-cta
+cta_headline: "Like what you read? I can write for your game too."
 permalink: /writing-portfolio/
 collection: writing-portfolio
 entries_layout: grid

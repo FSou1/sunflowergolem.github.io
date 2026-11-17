@@ -1,42 +1,34 @@
 ---
 permalink: /contact/
-redirect_from:
-  - /hire-me/
 title: "Contact"
 classes: wide
-description: "Contact Taisiia Smirnova, narrative designer and game writer. Open to full-time roles (Houston, TX or remote) and freelance or contract game writing."
+description: "Contact Taisiia Smirnova, narrative designer and game writer: email or LinkedIn for full-time roles and contracts, Fiverr for smaller freelance pieces."
 ---
 
-I'm a narrative designer and game writer with 6+ years of experience on PC, console and mobile games, including work with tinyBuild, Playgendary and Dou Dou Games.
+{% assign f = site.data.fiverr %}
+{% assign cv = "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf" %}
 
-I'm currently open to:
+The best way to reach me depends on what you need.
 
-- **Full-time roles** as a Narrative Designer or Game Writer, on-site or hybrid in Houston, TX, or remote.
-- **Freelance and contract work**, either a defined piece of work or an ongoing role on your team.
+<div class="contact-routes">
+  <div class="contact-route">
+    <h2>Hiring, or a long-term contract?</h2>
+    <p>Email me about the role or project. A few lines on the genre, platform, scope and timeline help me give you a useful answer.</p>
+    <p class="pill-row">
+      <a href="mailto:taisiia.narrative@gmail.com" class="pill pill--dark"><i class="far fa-envelope" aria-hidden="true"></i> taisiia.narrative@gmail.com</a>
+      <a href="https://www.linkedin.com/in/taisiia-smirnova-narrative/" class="pill pill--linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+      <a href="{{ cv }}" class="pill"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
+    </p>
+  </div>
+  <div class="contact-route">
+    <h2>A smaller freelance piece?</h2>
+    <p>Order or message me on Fiverr. Fiverr holds your payment until the work is delivered.</p>
+    <p class="contact-route__rating"><span aria-hidden="true">★★★★★</span> <strong>{{ f.rating }}</strong> from <a href="{{ site.fiverr_profile_url }}" class="reviews-link" target="_blank" rel="noopener">{{ f.review_count }} reviews</a> on Fiverr</p>
+    <p class="pill-row">
+      <a href="{{ site.fiverr_gig_url }}" class="pill pill--fiverr" target="_blank" rel="noopener">Order on Fiverr <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+      <a href="{{ site.fiverr_profile_url }}" class="pill" target="_blank" rel="noopener"><i class="far fa-comment" aria-hidden="true"></i> Message me on Fiverr</a>
+    </p>
+  </div>
+</div>
 
-If you have a project, a role, or an early idea you'd like a second opinion on, I'd be glad to hear about it.
-
-**Email:** [taisiia.narrative@gmail.com](mailto:taisiia.narrative@gmail.com)<br>
-**LinkedIn:** [taisiia-smirnova-narrative](https://www.linkedin.com/in/taisiia-smirnova-narrative/){:target="\_blank"}<br>
-**CV:** [Download PDF](/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf)
-
-## What I work on
-
-- **Story and world:** pitches, outlines, story bibles, plot structure, character arcs, worldbuilding and lore.
-- **Quests and missions:** main and side quests, branching mission sequences, and encounters written around the gameplay.
-- **Dialogue:** branching and diamond-shape dialogue, distinct character voices, quest banter and barks.
-- **Cinematics and trailers:** screenplay-format scripts for in-game cinematics, intros and marketing trailers.
-- **In-game text:** item descriptions, flavor text, quest text and character bios.
-- **Narrative systems:** story that ties into the mechanics, such as boss fights, abilities, puzzles and progression.
-- **Implementation:** setting up narrative content in the engine (Unity, Unreal, articy:draft, Twine), preparing text for localization, and writing documentation for the team.
-- **Narrative review:** feedback on an existing script, plot or game design document.
-
-## Genres and formats
-
-RPG, real-time strategy, action/slasher, immersive sim, visual novel, match-3/casual and tabletop RPG. Tones range from dark fantasy and sci-fi horror to detective, romance and comedy.
-
-## Tools
-
-Unity · Unreal · articy:draft · Twine · Defold · Jira · Confluence · Notion · Nuclino · Trello · Asana · Miro · Slack · Discord
-
-When you get in touch, a few lines about the genre, platform, scope and timeline are helpful. To see how I write, the [writing samples](/writing-portfolio/) are a good place to start.
+Want to see my work first? Browse the [writing samples](/writing-portfolio/) and [games](/published-games/), or read more about [how I work with studios and indies](/services/).

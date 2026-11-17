@@ -22,7 +22,7 @@ sidebar:
     text: "Men 21+"
 ---
 
-[Time of the Sword](https://timeofthesword.com/about){:target="\_blank"} is an AAA story-driven combat-based action video game in a modern setting for players enjoying deep interactive narrative experience, psychological character arcs, and rich high fantasy worlds. I was the sole screenwriter and narrative designer on the project from 2020 to 2024, responsible for the plot, characters, world, lore, and all cinematic and trailer scripts.
+[Time of the Sword](https://timeofthesword.com/about){:target="_blank"} is an AAA story-driven combat-based action video game in a modern setting for players enjoying deep interactive narrative experience, psychological character arcs, and rich high fantasy worlds. I was the sole screenwriter and narrative designer on the project from 2020 to 2024, responsible for the plot, characters, world, lore, and all cinematic and trailer scripts.
 
 For centuries, the battle between good and evil has raged on, with the world's fate hanging on the blade of a sword. Through it all, the ancient heroes have stood vigilant, guarding the realm from harm.
 

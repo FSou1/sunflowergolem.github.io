@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Taisiia Smirnova, narrative designer and game writer (tinyBuild, Playgendary, Dou Dou Games). Quests, branching dialogue, cinematics and lore. Open to full-time and freelance work.
 
 github_username: sunflowergolem
+fiverr_gig_url: "https://www.fiverr.com/tais_narrative/craft-game-narrative-plots-characters-dialogue-narrative-design-lore-and-more"
+fiverr_profile_url: "https://www.fiverr.com/tais_narrative"
 minimal_mistakes_skin: default
 search: true
 teaser: /assets/images/500x300.png
@@ -94,6 +96,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/taisiia-smirnova-narrative/"
+    - label: "Hire on Fiverr"
+      icon: "fas fa-fw fa-shopping-cart"
+      url: "https://www.fiverr.com/tais_narrative/craft-game-narrative-plots-characters-dialogue-narrative-design-lore-and-more"
     - label: "CV / Resume"
       icon: "fas fa-fw fa-file"
       url: "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf"
@@ -119,7 +124,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       show_date: true
   # _pages
@@ -136,7 +141,7 @@ defaults:
     values:
       layout: single-cta
       author_profile: true
-      share: true
+      share: false
       classes: wide
   # _published-games
   - scope:
@@ -144,7 +149,7 @@ defaults:
       type: published-games
     values:
       layout: single-cta
-      author_profile: false
-      share: true
+      author_profile: true
+      share: false
       classes: wide
 

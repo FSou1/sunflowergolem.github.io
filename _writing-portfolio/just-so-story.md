@@ -1,11 +1,12 @@
 ---
+cta_headline: "Need a story with heart for your game?"
 title: "Guiding Star"
 tagline: "A just-so story set in a fantasy world, exploring the deep lore behind the creation of constellations and showcasing soft worldbuilding"
 excerpt: "A myth-style origin tale showcasing lore and worldbuilding"
 header:
   overlay_image: /assets/images/portfolio/just-so-story.jpg
   teaser: /assets/images/portfolio/just-so-story.jpg
-order: 11
+order: 13
 ---
 
 The Mikara people faced a threat from The Big Bad Bug. Desperate to escape its wrath, some villagers ventured into the dark forest to find a new place to live, but they never returned. The remaining villagers cleaned the land, hoping to find their lost loved ones, but to no avail. The great shaman asked Mother Earth and Father Sky for help, and they gave their children a way to always find their way home.

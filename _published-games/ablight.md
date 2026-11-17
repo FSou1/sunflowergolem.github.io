@@ -21,7 +21,7 @@ sidebar:
     text: "PC (Steam)"
 ---
 
-[Ablight](https://store.steampowered.com/app/1670160/){:target="\_blank"} is a classic real-time strategy game set in an alternate universe where diesel, cyberpunk and medieval aesthetics meet. Players join the rebellion against the zealous Inquisition, which has been humankind's scourge for hundreds of years, and fight a war for survival.
+[Ablight](https://store.steampowered.com/app/1670160/){:target="_blank"} is a classic real-time strategy game set in an alternate universe where diesel, cyberpunk and medieval aesthetics meet. Players join the rebellion against the zealous Inquisition, which has been humankind's scourge for hundreds of years, and fight a war for survival.
 
 ## What I did
 
