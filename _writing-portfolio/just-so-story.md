@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need a story with heart for your game?"
-title: "Guiding Star"
+title: "Worldbuilding Myth Sample: Guiding Star"
 tagline: "A just-so story set in a fantasy world, exploring the deep lore behind the creation of constellations and showcasing soft worldbuilding"
 excerpt: "A myth-style origin tale showcasing lore and worldbuilding"
 header:

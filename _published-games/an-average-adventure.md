@@ -1,5 +1,6 @@
 ---
 title: "An Average Adventure"
+schema_type: Game
 tagline: "An Average Adventure is a personalized journey through a fully homebrewed world in a one-of-a-kind tabletop role-playing game campaign. With a story tailored specifically to my players and their characters' backstories, my goal is to immerse them in a dark and compelling fantasy setting filled with challenging moral choices and shades of gray morality. From their humble beginnings to the dizzying heights of high levels, players experience a vast and interconnected web of engaging and meaningful story arcs, each one building on the last to create a truly epic tale for the ages."
 excerpt: "A thriller, adventure game in fantasy setting with DnD system as core mechanic"
 order: 8

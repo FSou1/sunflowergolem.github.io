@@ -1,6 +1,8 @@
 ---
 cta_headline: "Need a story with heart for your game?"
-title: "Rid and the Treasure Map"
+title: "Fantasy Fairytale and Lore Sample: Rid and the Treasure Map"
+redirect_from:
+  - "/writing-portfolio/dragon fairytale/"
 tagline: "A classic fairytale lore piece for a fantasy world where dragons and magic really exist"
 excerpt: "A fairytale set in a high-fantasy world, showcasing lore and soft worldbuilding"
 header:

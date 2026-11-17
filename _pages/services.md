@@ -27,7 +27,7 @@ There are two ways to work with me, depending on what you need.
     <h2 class="package__name">A narrative designer on your team</h2>
     <p>Full-time (on-site or hybrid in Houston, TX, or remote) or a long-term contract. 6+ years on PC, console and mobile games, with credits at tinyBuild, Playgendary and Dou Dou Games.</p>
     <div class="package__cta">
-      <a href="/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf" class="pill pill--dark"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
+      <a href="/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf" class="pill pill--dark"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
       <a href="#studios" class="pill"><i class="fas fa-arrow-down" aria-hidden="true"></i> What I bring</a>
     </div>
   </div>
@@ -61,7 +61,7 @@ I'm looking for a full-time Narrative Designer or Game Writer role, on-site or h
 <p class="pill-row" id="studios-actions-top">
   <a href="mailto:taisiia.narrative@gmail.com" class="pill pill--dark"><i class="far fa-envelope" aria-hidden="true"></i> taisiia.narrative@gmail.com</a>
   <a href="https://www.linkedin.com/in/taisiia-smirnova-narrative/" class="pill pill--linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-  <a href="/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf" class="pill"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
+  <a href="/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf" class="pill"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
 </p>
 
 What I bring:
@@ -98,7 +98,7 @@ Unity · Unreal · articy:draft · Twine · Defold · Jira · Confluence · Noti
 <p class="pill-row" id="studios-actions-bottom">
   <a href="mailto:taisiia.narrative@gmail.com" class="pill pill--dark"><i class="far fa-envelope" aria-hidden="true"></i> taisiia.narrative@gmail.com</a>
   <a href="https://www.linkedin.com/in/taisiia-smirnova-narrative/" class="pill pill--linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-  <a href="/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf" class="pill"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
+  <a href="/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf" class="pill"><i class="fas fa-file-arrow-down" aria-hidden="true"></i> Download CV</a>
 </p>
 
 Want to see how I write first? Browse the [writing samples](/writing-portfolio/) and [games](/published-games/).

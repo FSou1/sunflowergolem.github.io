@@ -1,6 +1,8 @@
 ---
 cta_headline: "Need a plot structure for your game?"
-title: "Gears of Shadow"
+title: "Game Story Outline Sample: Gears of Shadow"
+redirect_from:
+  - "/writing-portfolio/steampunck-adventure-plot-structure/"
 excerpt: "A steampunk adventure game story outline and synopsis, employing such techniques as the three-act structure and the hero's journey for game plots"
 header:
   overlay_image: /assets/images/portfolio/Steampunk_City.jpg

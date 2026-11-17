@@ -1,6 +1,8 @@
 ---
 cta_headline: "Need branching dialogue for your game?"
-title: "Hearts in Conflict"
+title: "Branching Dialogue Sample: Hearts in Conflict"
+redirect_from:
+  - "/writing-portfolio/diamond shape dialogue sample/"
 excerpt: "This dialogue highlights characters' distinct voices, all crafted in the style of BG3's choice-driven NPC interactions"
 tagline: "A classic short diamond-shaped dialogue, where a single conversation splits into multiple choices, each leading to distinct responses, before converging back to a unified conclusion. This structure allows for nuanced character interactions and player agency, while ensuring the narrative remains cohesive"
 header:

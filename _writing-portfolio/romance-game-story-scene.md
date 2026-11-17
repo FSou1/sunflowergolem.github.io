@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need romance scenes and dialogue for your game?"
-title: "The Lust for Loot"
+title: "Romance Game Scene Sample: The Lust for Loot"
 excerpt: "A hot romance game scene with short diamond shape choices and priority for animation economy and laconic texts"
 header:
   overlay_image: /assets/images/portfolio/the-lust-for-loot.jpg

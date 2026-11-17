@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need cinematic scripts for your game?"
-title: "Dam Scene"
+title: "Action Cinematic Script Sample: Dam Scene"
 excerpt: "High-stakes action sequence, dynamic camera angles and intense visual descriptions balancing rapid pacing with vivid imagery"
 tagline: "This cinematic script presents an action sequence. It demonstrates a strong command of pacing and visual storytelling, culminating in a cliffhanger"
 header:

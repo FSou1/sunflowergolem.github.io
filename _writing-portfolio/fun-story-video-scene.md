@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need funny, punchy scenes for your game?"
-title: "Something Big, Something Blue"
+title: "Comedy Scene Script Sample: Something Big, Something Blue"
 excerpt: "A modern setting story scene for video formats with comedy with drama elements suitable for a female audience"
 header:
   overlay_image: /assets/images/portfolio/fun-story-video-scene.jpg

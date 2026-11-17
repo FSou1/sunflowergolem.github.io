@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need cinematic scripts for your game?"
-title: "Shadowed Trails"
+title: "Game Cinematic Script Sample: Shadowed Trails"
 excerpt: "A script sample for an intro cinematic in an action or shooter game that shows the work with screenplay format, dialogue composition, and character portrayal"
 header:
   overlay_image: /assets/images/portfolio/action-video-game-cinematic-script.jpg

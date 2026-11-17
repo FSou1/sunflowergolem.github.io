@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need lore and flavor text for your world?"
-title: "Lore and Flavor Texts"
+title: "Game Lore and Flavor Text Samples"
 excerpt: "Short and punchy lines for items' descriptions and flavor"
 header:
   overlay_image: /assets/images/portfolio/lore-and-flavor-text.jpg

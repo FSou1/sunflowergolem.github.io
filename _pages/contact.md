@@ -6,7 +6,7 @@ description: "Contact Taisiia Smirnova, narrative designer and game writer: emai
 ---
 
 {% assign f = site.data.fiverr %}
-{% assign cv = "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf" %}
+{% assign cv = "/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf" %}
 
 The best way to reach me depends on what you need.
 

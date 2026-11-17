@@ -1,6 +1,6 @@
 ---
 cta_headline: "Need character backstories for your game or campaign?"
-title: "Spectral Melody"
+title: "D&D Character Backstory Sample: Spectral Melody"
 excerpt: "A backstory and an initiation of the hero's journey of a dwarf bard character for tabletop role-playing games such as DnD"
 header:
   overlay_image: /assets/images/portfolio/dwarf_bard_character.jpg

@@ -1,6 +1,8 @@
 ---
 cta_headline: "Need RPG missions for your game?"
-title: "Zephyr's Nebula"
+title: "RPG Mission Design Sample: Zephyr's Nebula"
+redirect_from:
+  - "/writing-portfolio/spase-adventure-RPG-mission/"
 excerpt: "A space adventure RPG mission plot with focus on meaningful choices that influence gameplay"
 header:
   overlay_image: /assets/images/portfolio/Space adventure rpg art.jpg

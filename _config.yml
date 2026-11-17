@@ -71,7 +71,7 @@ analytics:
 
 author:
   name: "Taisiia Smirnova"
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/avatar.webp"
   bio: "Narrative designer & game writer. Credits with tinyBuild, Playgendary and Dou Dou Games. Open to full-time & freelance work."
   location: "Houston, TX · Remote"
   links:
@@ -83,7 +83,7 @@ author:
       url: "https://www.linkedin.com/in/taisiia-smirnova-narrative/"
     - label: "CV / Resume"
       icon: "fas fa-fw fa-file"
-      url: "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf"
+      url: "/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf"
     - label: "Contact"
       icon: "fas fa-fw fa-paper-plane"
       url: "/contact/"
@@ -101,7 +101,7 @@ footer:
       url: "https://www.fiverr.com/tais_narrative/craft-game-narrative-plots-characters-dialogue-narrative-design-lore-and-more"
     - label: "CV / Resume"
       icon: "fas fa-fw fa-file"
-      url: "/assets/Taisiia Smirnova - Game Writer and Narrative Designer - CV.pdf"
+      url: "/assets/Taisiia-Smirnova-Game-Writer-Narrative-Designer-CV.pdf"
     - label: "Contact"
       icon: "fas fa-fw fa-paper-plane"
       url: "/contact/"

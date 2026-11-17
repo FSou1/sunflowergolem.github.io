@@ -1,0 +1,33 @@
+{%- comment -%} Home page structured data. Replaces the theme's schema.html (which printed a Person with no name). {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": {{ "/#website" | absolute_url | jsonify }},
+      "url": {{ "/" | absolute_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | strip | jsonify }},
+      "inLanguage": "en",
+      "publisher": { "@id": {{ "/#person" | absolute_url | jsonify }} }
+    },
+    {
+      "@type": "Person",
+      "@id": {{ "/#person" | absolute_url | jsonify }},
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ "/" | absolute_url | jsonify }},
+      "image": {{ site.og_image | absolute_url | jsonify }},
+      "jobTitle": "Narrative Designer and Game Writer",
+      "description": {{ site.author.bio | jsonify }},
+      "email": {{ site.email | prepend: "mailto:" | jsonify }},
+      "address": { "@type": "PostalAddress", "addressLocality": "Houston", "addressRegion": "TX", "addressCountry": "US" },
+      "knowsAbout": ["Narrative design", "Game writing", "Quest design", "Branching dialogue", "Worldbuilding and lore", "Cinematic scripts", "Character writing", "Tabletop RPG writing"],
+      "sameAs": [
+        "https://www.linkedin.com/in/taisiia-smirnova-narrative/",
+        {{ site.fiverr_profile_url | jsonify }}
+      ]
+    }
+  ]
+}
+</script>

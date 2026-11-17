@@ -1,0 +1,55 @@
+{%- comment -%}
+  Structured data for samples and games: breadcrumbs plus the work itself.
+  The home page gets its own block from _includes/schema.html.
+  A game page can set "schema_type" in its front matter (default VideoGame).
+{%- endcomment -%}
+{%- if page.collection == "writing-portfolio" or page.collection == "published-games" -%}
+{%- if page.collection == "published-games" -%}
+  {%- assign sd_parent = "Games & Projects" -%}
+  {%- assign sd_type = page.schema_type | default: "VideoGame" -%}
+{%- else -%}
+  {%- assign sd_parent = "Writing Portfolio" -%}
+  {%- assign sd_type = "CreativeWork" -%}
+{%- endif -%}
+{%- assign sd_parent_url = "/" | append: page.collection | append: "/" | absolute_url -%}
+{%- assign sd_image = page.header.teaser | default: page.header.overlay_image -%}
+{%- assign sd_publisher = page.sidebar | where: "title", "Publisher" | first -%}
+{%- assign sd_platform = page.sidebar | where: "title", "Platform" | first -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ "/" | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 2, "name": {{ sd_parent | jsonify }}, "item": {{ sd_parent_url | jsonify }} },
+        { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+      ]
+    },
+    {
+      "@type": {{ sd_type | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "description": {{ page.excerpt | strip_html | strip | jsonify }},
+      {%- if sd_image %}
+      "image": {{ sd_image | absolute_url | jsonify }},
+      {%- endif %}
+      {%- if sd_publisher %}
+      "publisher": { "@type": "Organization", "name": {{ sd_publisher.text | jsonify }} },
+      {%- endif %}
+      {%- if sd_platform and sd_type == "VideoGame" %}
+      "gamePlatform": {{ sd_platform.text | jsonify }},
+      {%- endif %}
+      "inLanguage": "en",
+      {%- if page.collection == "writing-portfolio" %}
+      "genre": "Game writing sample",
+      "author": { "@id": {{ "/#person" | absolute_url | jsonify }}, "@type": "Person", "name": {{ site.author.name | jsonify }}, "url": {{ "/" | absolute_url | jsonify }} }
+      {%- else %}
+      "contributor": { "@id": {{ "/#person" | absolute_url | jsonify }}, "@type": "Person", "name": {{ site.author.name | jsonify }}, "url": {{ "/" | absolute_url | jsonify }} }
+      {%- endif %}
+    }
+  ]
+}
+</script>
+{%- endif -%}
